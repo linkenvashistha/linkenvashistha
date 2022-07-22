@@ -16,7 +16,7 @@
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/linken-vashistha-25a717200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="dewansh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/linken-vashistha-25a717200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linken" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/linken_vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://leetcode.com/linkenvashistha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="codewhiteweb" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/vashisthalinken/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codewhiteweb" height="30" width="40" /></a>
@@ -28,10 +28,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=linkenvashistha&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linkenvashistha&theme=dracula&hide_border=true)](https://github.com/linkenvashistha?tab=repositories)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewansh36&theme=dracula&show_icons=true&locale=en&layout=compact" alt="dewansh36" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=linkenvashistha&theme=dracula&show_icons=true&locale=en&layout=compact" alt="linkenvashistha" />
 
 # Snake Grid :
-![snake gif](https://github.com/linkenvashistha/linkenvashistha/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/linkenvashistha/linkenvashistha/blob/output/github-contribution-grid-snake.gif)
 ![Profile_Views](https://komarev.com/ghpvc/?username=linkenvashistha&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
 
